@@ -12,6 +12,7 @@
     "babel-plugin-captains-log": "*",
     "babel-preset-env": "^1.4.0",
     "babel-preset-flow": "^6.23.0",
+    "babel-watch": "^2.0.6",
     "eslint": "^3.19.0",
     "eslint-plugin-flowtype": "^2.32.1",
     "flow-bin": "^0.46.0",
@@ -22,5 +23,11 @@
   "scripts": {
     "start": "nps",
     "test": "nps test"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-graphql": "^0.6.4",
+    "graphql": "^0.9.6",
+    "open": "^0.0.5"
   }
 }
