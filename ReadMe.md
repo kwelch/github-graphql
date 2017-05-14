@@ -1,4 +1,4 @@
-#GitHub GraphQL
+# GitHub GraphQL
 
 Just a sandbox repo to play with the graphql and the github api.
 
