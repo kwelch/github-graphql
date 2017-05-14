@@ -1,0 +1,26 @@
+{
+  "name": "github-graphql",
+  "version": "1.0.0",
+  "description": "graphql server to interface with the github api",
+  "main": "index.js",
+  "author": "Kyle Welch <kwelch0626@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/kwelch/github-graphql.git",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-eslint": "^7.2.3",
+    "babel-plugin-captains-log": "*",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-flow": "^6.23.0",
+    "eslint": "^3.19.0",
+    "eslint-plugin-flowtype": "^2.32.1",
+    "flow-bin": "^0.46.0",
+    "jest-cli": "^20.0.1",
+    "nps": "^5.1.0",
+    "nps-utils": "^1.2.0"
+  },
+  "scripts": {
+    "start": "nps",
+    "test": "nps test"
+  }
+}

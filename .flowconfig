@@ -1,0 +1,14 @@
+[ignore]
+.*\.spec\.js
+
+[include]
+index.js
+
+[libs]
+
+[options]
+emoji=true
+module.use_strict=true
+
+[version]
+0.46.0
